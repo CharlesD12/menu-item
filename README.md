@@ -8,3 +8,6 @@ Jika pengguna menjawab 'y', maka program akan meminta pengguna untuk memasukkan 
 Jika pengguna menjawab 'n', maka program akan berakhir dengan mengucapkan terima kasih atas pembeliannya. 
 Program ini mengimpor kelas MenuItem yang mendefinisikan item menu restoran dan metode untuk menghitung harga total berdasarkan jumlah pesanan. 
 Kode untuk kelas MenuItem disertakan dalam potongan kode yang diberikan.
+
+Output program :
+<img width="922" alt="image" src="https://github.com/CharlesD12/menu-item/assets/78160523/99f6b96b-5fef-4033-8269-751ccab54f7e">
