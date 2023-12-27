@@ -1,5 +1,5 @@
 # menu-item
-Ini merupakan program sederhana menu restoran, dimana jika pembeli membeli barang lebih dari 3 maka akan diberikan diskon. 
+Proyek yang telah saya kerjakan ini merupakan program sederhana menu restoran, dimana jika pembeli membeli barang lebih dari 3 maka akan diberikan diskon. 
 Program ini memungkinkan pengguna untuk memilih item dari menu restoran dan menentukan jumlah pesanan. 
 Setelah itu, program akan menghitung total harga berdasarkan item yang dipilih dan jumlahnya. 
 Jika jumlah pesanan lebih dari atau sama dengan 3, pengguna akan mendapatkan diskon 10%. 
